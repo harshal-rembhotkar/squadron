@@ -215,10 +215,6 @@ sudo systemctl start docker
 
 This is a demonstration project showcasing Cline's capabilities. Feel free to fork and extend!
 
-## 📄 License
-
-MIT
-
 ## 🙏 Credits
 
 - **Powered by [Cline](https://cline.bot)** - Autonomous AI coding assistant
