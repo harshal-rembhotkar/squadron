@@ -19,7 +19,7 @@ const docker = new Docker({ socketPath: '/var/run/docker.sock' });
 app.use(cors());
 app.use(express.json());
 
-const PORT = 3001; // Frontend is 4000, so 3001 is safe
+const PORT = 3001; // Frontend is 3000,Backend is 3001
 
 const activeContainers = new Map();
 
